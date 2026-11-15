@@ -1,0 +1,15 @@
+{
+  "firmware_version": "ClassSense Alerts 2.4 Plus",
+  "firmware_id": "2.4",
+  "board": "esp32:esp32:esp32",
+  "core": "3.3.12",
+  "hashes": {
+    "ClassSenseAlerts.ino": "b9718282860976c2ad011edff5e93ea4df02cf994f50befadde9379f0830f284",
+    "classsense_types.h": "ecdc504d25ce1f05939bee42ed9a0ca1e335ebefa0433b411bef6fa1c0a55154",
+    "wifi_retry.h": "24b4b396ba9049be45bfbe29f937b53f86f6dceed5a58ed158ce5523a18b6ec9",
+    "reaction_logic.h": "539cb218003bba25db9362b09c2b5369b36e97d2ae13a0626921f694ff41cb13",
+    "controller_page.h": "4de0b2780e4448b246d3cb9183da6f452bbc2f473ffbe91e6932d2677ddddb5e",
+    "secrets.example.h": "70ec7eddcc8a94af0e7d2d59190a42599d7bc1c87d57e8f9a0f556d8566aaaf3",
+    "LEEME.md": "0f4d25489e69191064caac8321fdfd109d38576eb57632d27b9649ded614dffa"
+  }
+}
